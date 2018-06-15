@@ -1,0 +1,23 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMutaa/MovieApp.git"
+  },
+  "author": "AMutaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMutaa/MovieApp/issues"
+  },
+  "homepage": "https://github.com/AMutaa/MovieApp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
